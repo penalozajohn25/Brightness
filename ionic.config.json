@@ -1,0 +1,7 @@
+{
+  "name": "brightness ",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
